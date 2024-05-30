@@ -117,9 +117,9 @@ EOL
   echo "NamelessMC has been installed on your system and is running on ${USER_DOMAIN}"
 else
   echo "NamelessMC has been installed on your system, you will need to setup a webserver by following https://docs.namelessmc.com/en/webserver"
-  echo "Script by Auri (github.com/imlayered) | "
+  echo "Script by Auri (https://github.com/imlayered/namelessmc-installer/) | "
 fi
 
 echo "Database user 'nameless' has been created with the following password: ${PASSWORD}"
 
-echo "Script by Auri (github.com/imlayered)"
+echo "Script by Auri (https://github.com/imlayered/namelessmc-installer/)"
