@@ -12,3 +12,5 @@ Using curl:
 
 Using wget
 ```wget https://nameless-installer.auri.lol/install.sh && chmod +x install.sh && ./install.sh```
+
+**Do not run both, run whichever one you like better; I suggest using curl (the first one)**
