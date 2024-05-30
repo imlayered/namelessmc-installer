@@ -14,3 +14,6 @@ Using wget
 ```wget https://nameless-installer.auri.lol/nameless-installer.sh && chmod +x inameless-installer.sh && ./nameless-installer.sh```
 
 **Do not run both, run whichever one you like better; I suggest using curl (the first one)**
+
+# Demo video
+[![Demo - NamelessMC Install Script](https://img.youtube.com/vi/QBL69Tm32Gg/0.jpg)](https://www.youtube.com/watch?v=QBL69Tm32Gg)
