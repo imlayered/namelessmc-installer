@@ -11,7 +11,7 @@ Using curl:
 ```curl -O https://nameless-installer.auri.lol/nameless-installer.sh && chmod +x nameless-installer.sh&& ./nameless-installer.sh```
 
 Using wget
-```wget https://nameless-installer.auri.lol/nameless-installer.sh && chmod +x inameless-installer.sh && ./nameless-installer.sh```
+```wget https://nameless-installer.auri.lol/nameless-installer.sh && chmod +x nameless-installer.sh && ./nameless-installer.sh```
 
 **Do not run both, run whichever one you like better; I suggest using curl (the first one)**
 
