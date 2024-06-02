@@ -8,10 +8,10 @@ I have only tested the installer on Ubuntu 22 & Ubuntu 24 but it will most likel
 # How to get started
 ### Simply run the script command:
 Using curl:
-```curl -O https://nameless-installer.auri.lol/nameless-installer.sh && chmod +x nameless-installer.sh&& ./nameless-installer.sh```
+```curl -O https://installers.auri.lol/nameless.sh && chmod +x nameless.sh && ./nameless.sh```
 
 Using wget
-```wget https://nameless-installer.auri.lol/nameless-installer.sh && chmod +x nameless-installer.sh && ./nameless-installer.sh```
+```wget https://installers.auri.lol/nameless.sh && chmod +x nameless.sh && ./nameless.sh```
 
 **Do not run both, run whichever one you like better; I suggest using curl (the first one)**
 
